@@ -34,3 +34,9 @@ You are to consider the following two type of discounts as product discount/prom
 2. Click on **Connect** and **right click on Databases** to create a **new schema** called `FairPrice`.
 
 3. **Double click on** `FairPrice` to make it the working database and run the SQL statements by clicking on **Execute**.
+
+### Other Notes
+
+1. For ERD diagram and further explanation, please view `Slides.pptx`.
+
+2. This project has no association to FairPrice NTUC in real life.
