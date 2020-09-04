@@ -8,7 +8,7 @@ You are to consider the following two type of discounts as product discount/prom
 
 - **Direct Discount** - Offers a reduction based on the original price, such as $10 off or 10% off, and is applied to a single product
 
-- **Quantity-Based Discount** - Encourage shoppers to increase their order value to a specific threshold of items (eg. buy 2 save $5, buy 3 free 1)
+- **Quantity-Based Discount** - Encourage shoppers to increase their order value to a specific threshold of items (eg. buy 2 save $5)
 
 ## Database Features
 
