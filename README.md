@@ -1,6 +1,3 @@
-# Project Background
-One of my modules for Year 2 is **Data Engineering (aka DENG)** where I had to **design a database from scratch over 2 months** based on a given problem statement...
-
 ## Problem Statement
 A business owner wants to start an **online grocery store, like the NTUC FairPrice**. You are required to **design the database to store the product information**. To facilitate the user browsing experience, the products are assigned using a **three-tier hierarchy system**. The three levels are Categories, Subcategories and Groups with Categories being the broadest classification group. 
 
